@@ -140,7 +140,7 @@ export default function LandingPage() {
           <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md transition text-left">
             <h3 className="text-xl font-bold mb-3 text-blue-800">Buy Property</h3>
             <p className="text-gray-600 text-sm leading-relaxed mb-4">
-              Find verified homes in high-growth zones like <strong>Wardha Road, MIHAN, and Besa.</strong> We provide verified site visits, transparent documentation, and legal assistance to ensure you secure the best 2026 market price.
+              Find verified homes in high-growth zones like <strong>Wardha Road, MIHAN, Manish Nagar, Trimurti Nagar and Besa.</strong> We provide verified site visits, transparent documentation, and legal assistance to ensure you secure the best 2026 market price.
             </p>
             <p className="text-xs font-semibold text-blue-600 italic">Target: Best RERA-registered projects in Nagpur.</p>
           </div>
